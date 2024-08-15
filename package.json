@@ -1,0 +1,22 @@
+{
+  "name": "Rest_Api_express",
+  "version": "1.0.0",
+  "description": "creando una apiRest con express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "expressJs",
+    "apiRest"
+  ],
+  "author": "andresHoyos",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.19.2",
+    "zod": "3.23.8"
+  }
+}
